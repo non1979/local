@@ -19,6 +19,9 @@
 
  <!-- Vendor Trees -->   
   <project path="vendor/xiaomi" name="android_vendor_xiaomi" remote="vendor" />
+   
+ <!-- Extra -->   
+  <project path="vendor/extra" name="android_vendor_extra" remote="tree" />   
   
 ## to check
 ## git clone https://github.com/LineageOS/android_hardware_xiaomi -b lineage-20 hardware/xiaomi
